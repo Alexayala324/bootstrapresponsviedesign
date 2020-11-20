@@ -1,0 +1,99 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+/* KEEP THESE STYLES */
+header {
+	padding-top: 154px;
+	padding-right: 0px;
+	padding-left: 0px;
+	background-color: black;	
+}
+
+@media (min-width: 992px) {
+  header {
+	padding: 156px 0 100px;
+	background-color: black;
+	color: #FFFFFF;
+  }
+}
+
+.btn{
+	background-color: white; 
+	color: black; 
+	
+}
+.jumbotron{
+	background-color: black; 
+	text-align: center; 
+	height: 500px; 
+	padding-top: 200px; 
+	 
+}
+body {
+	background-color: black; 
+}
+
+div{ 
+background-color: black; 
+}
+
+h1{
+	color: white;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+	 
+}
+h2{
+	color: white;
+	padding-left: 450px;
+	font-size: 40px;
+}
+
+h3{
+	color: white; 
+}
+
+h4{
+	color: white;
+	padding-right: 700px;
+	padding-top: 10px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 80px;
+}
+h5{
+	color: white; 
+	padding-left: 450px; 
+	padding-right: 200px; 
+	font-weight: 100px; 
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+h6{
+	color: white; 
+}
+p{
+	color: white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+	
+}
+
+section {
+
+	background-color: black;
+	height: 1350px; 
+	padding-left: 200px;
+	padding-top: 200px; 
+	 
+}
+.carousel{
+	align-content: center; 
+	margin-top: 100px; 
+	margin-right: 250px; 
+	
+}
+
+
+ 
+
+/* END OF KEEP THESE STYLES */
